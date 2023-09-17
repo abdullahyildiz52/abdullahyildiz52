@@ -22,7 +22,38 @@
   - I also conduct mobile test automation using Appium.
   
 ## 👨‍💻 Skills
-- I have a basic understanding of HTML, CSS, SQL, JavaScript, and API.
+I have experience with various tools and technologies including:
+
+### Test Automation
+- Selenium WebDriver
+- JUnit
+- TestNG
+- Cucumber
+- Appium
+
+### Programming Languages
+- Java (Intermediate Level)
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Database
+- SQL
+
+### API Testing
+- Postman
+
+### Version Control
+- Git
+
+### Collaboration Tools
+- GitHub
+
+### Operating Systems
+- Windows
+- Linux (Basic Knowledge)
 
 ## 📦 My Projects
 Here are some of my projects:
