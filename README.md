@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdullahyildiz52
+
 # Merhaba, Ben Abdullah! 👋
 
 Bilgisayar Mühendisliği öğrencisiyim ve Yazılım Test Mühendisiyim. Eğitimim ve Kariyerim boyunca yazılım geliştirme süreçlerinden özellikle Test aşamasına olan ilgim beni Yazılım Test Mühendisi olarak yönlendirdi.İşte benim hakkımda birkaç detay:
