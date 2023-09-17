@@ -1,44 +1,46 @@
-<h1 align="center">Merhaba, Ben Abdullah! 👋</h1>
+<h1 align="center">Hello, I'm Abdullah! 👋</h1>
 
 <p align="center">
-  <em>Bilgisayar Mühendisliği öğrencisi ve Yazılım Test Mühendisiyim.</em>
+  <em>I'm a Computer Engineering student and a Software Test Engineer.</em>
 </p>
 
 <br>
 
-## 📚 Eğitim
-- Kırıkkale Üniversitesi, Bilgisayar Mühendisliği Bölümü (Devam Ediyor)
+## 📚 Education
+- Kırıkkale University, Computer Engineering (Currently Enrolled)
 
-## 💼 Kariyer
-- **PGI Houseware Şirketi** (2 Yıl)
-  - QA Tester olarak görev aldım.
-  - İnternet sitesinin Manuel ve Otomasyon testlerini gerçekleştirdim.
-  - Geliştirme ekibiyle uzaktan iletişim halinde çalıştım.
+## 💼 Career
+- **PGI Houseware Company** (2 Years)
+  - I worked as a QA Tester.
+  - Conducted manual and automated tests for the company's website.
+  - Collaborated remotely with the development team.
   
-- **StarXTest Şirketi** (Şu Anda)
-  - QA Test Engineer olarak çalışıyorum.
-  - Utest üzerinden Manuel testler gerçekleştiriyorum.
-  - Java programlama dilinde orta seviye geliştirme yapabiliyorum ve Selenium, JUnit, TestNG, ve Cucumber kullanarak ileri düzey web test otomasyonları gerçekleştiriyorum.
-  - Appium ile Mobil test otomasyonları da gerçekleştiriyorum.
+- **StarXTest Company** (Current)
+  - I work as a QA Test Engineer.
+  - I perform manual tests on Utest.
+  - I have intermediate-level Java programming skills and perform advanced web test automation using Selenium, JUnit, TestNG, and Cucumber.
+  - I also conduct mobile test automation using Appium.
   
-## 👨‍💻 Yetenekler
-- Temel (basic) düzeyde HTML, CSS, SQL, JavaScript, API bilgisine sahibim.
+## 👨‍💻 Skills
+- I have a basic understanding of HTML, CSS, SQL, JavaScript, and API.
 
-## 📫 İletişim
+## 📦 My Projects
+Here are some of my projects:
+
+- [Project 1](https://github.com/abdullahyildiz52/project1)
+  - Description of Project 1.
+
+- [Project 2](https://github.com/abdullahyildiz52/project2)
+  - Description of Project 2.
+
+- [Project 3](https://github.com/abdullahyildiz52/project3)
+  - Description of Project 3.
+
+Thank you for visiting my GitHub profile! I'm always open to collaboration and would love to hear from you. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/abdullahyildiz52/) or [GitHub](https://github.com/abdullahyildiz52) for more information.
+
 - E-posta: [ce_abdullahyildiz@hotmail.com](mailto:ce_abdullahyildiz@hotmail.com)
 - LinkedIn: [LinkedIn Profili](https://www.linkedin.com/in/abdullahyildiz52/)
 - GitHub: [GitHub Profili](https://github.com/abdullahyildiz52)
 
-## 📦 Projelerim
-Aşağıda bazı projelerimi bulabilirsiniz:
 
-- [Proje 1](https://github.com/abdullahyildiz52/.comT116HauseHeavenTeam3Main.git)
-  - Proje 1 ile ilgili açıklama.
 
-- [Proje 2](https://github.com/abdullahyildiz52/proje2)
-  - Proje 2 ile ilgili açıklama.
-
-- [Proje 3](https://github.com/abdullahyildiz52/proje3)
-  - Proje 3 ile ilgili açıklama.
-
-GitHub profilimi ziyaret ettiğiniz için teşekkür ederim! İletişime geçmek veya projelerde işbirliği yapmak için her zaman açığım. Daha fazla bilgi almak veya benimle iletişime geçmek için [LinkedIn Profilim](https://www.linkedin.com/in/abdullahyildiz52/) veya [GitHub Profilim](https://github.com/abdullahyildiz52) bağlantılarına göz atabilirsiniz.
