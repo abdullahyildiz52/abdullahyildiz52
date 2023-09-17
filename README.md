@@ -1,12 +1,15 @@
+<h1 align="center">Merhaba, Ben Abdullah! 👋</h1>
 
-# Merhaba, Ben Abdullah! 👋
+<p align="center">
+  <em>Bilgisayar Mühendisliği öğrencisi ve Yazılım Test Mühendisiyim.</em>
+</p>
 
-Bilgisayar Mühendisliği öğrencisiyim ve Yazılım Test Mühendisiyim. Eğitimim ve Kariyerim boyunca yazılım geliştirme süreçlerinden özellikle Test aşamasına olan ilgim beni Yazılım Test Mühendisi olarak yönlendirdi.İşte benim hakkımda birkaç detay:
+<br>
 
-## Eğitim
+## 📚 Eğitim
 - Kırıkkale Üniversitesi, Bilgisayar Mühendisliği Bölümü (Devam Ediyor)
 
-## Kariyer
+## 💼 Kariyer
 - **PGI Houseware Şirketi** (2 Yıl)
   - QA Tester olarak görev aldım.
   - İnternet sitesinin Manuel ve Otomasyon testlerini gerçekleştirdim.
@@ -18,12 +21,12 @@ Bilgisayar Mühendisliği öğrencisiyim ve Yazılım Test Mühendisiyim. Eğiti
   - Java programlama dilinde orta seviye geliştirme yapabiliyorum ve Selenium, JUnit, TestNG, ve Cucumber kullanarak ileri düzey web test otomasyonları gerçekleştiriyorum.
   - Appium ile Mobil test otomasyonları da gerçekleştiriyorum.
   
-## Yetenekler
+## 👨‍💻 Yetenekler
 - Temel (basic) düzeyde HTML, CSS, SQL, JavaScript, API bilgisine sahibim.
 
-GitHub profilimi ziyaret ettiğiniz için teşekkür ederim! İletişime geçmek veya projelerde işbirliği yapmak için her zaman açığım. Daha fazla bilgi almak veya benimle iletişime geçmek için [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) profilime göz atabilirsiniz.
+## 📫 İletişim
+- E-posta: example@example.com
+- LinkedIn: [LinkedIn Profili](https://www.linkedin.com/in/your-linkedin-profile)
+- GitHub: [GitHub Profili](https://github.com/your-github-profile)
 
-<!---
-abdullahyildiz52/abdullahyildiz52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+GitHub profilimi ziyaret ettiğiniz için teşekkür ederim! İletişime geçmek veya projelerde işbirliği yapmak için her zaman açığım. Daha fazla bilgi almak veya benimle iletişime geçmek için [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) veya [GitHub](https://github.com/your-github-profile) profilime göz atabilirsiniz.
