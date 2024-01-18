@@ -10,16 +10,10 @@
 - Kırıkkale University, Computer Engineering (Currently Enrolled)
 
 ## 💼 Career
-- **PGI Houseware Company** (2 Years)
+- **PGI Houseware Company** 
   - I worked as a QA Tester.
   - Conducted manual and automated tests for the company's website.
   - Collaborated remotely with the development team.
-  
-- **StarXTest Company** (Current)
-  - I work as a QA Test Engineer.
-  - I perform manual tests on Utest.
-  - I have intermediate-level Java programming skills and perform advanced web test automation using Selenium, JUnit, TestNG, and Cucumber.
-  - I also conduct mobile test automation using Appium.
   
 ## 👨‍💻 Skills
 I have experience with various tools and technologies including:
@@ -55,17 +49,6 @@ I have experience with various tools and technologies including:
 - Windows
 - Linux (Basic Knowledge)
 
-## 📦 My Projects
-Here are some of my projects:
-
-- [Project 1](https://github.com/abdullahyildiz52/project1)
-  - Description of Project 1.
-
-- [Project 2](https://github.com/abdullahyildiz52/project2)
-  - Description of Project 2.
-
-- [Project 3](https://github.com/abdullahyildiz52/project3)
-  - Description of Project 3.
 
 Thank you for visiting my GitHub profile! I'm always open to collaboration and would love to hear from you. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/abdullahyildiz52/) or [GitHub](https://github.com/abdullahyildiz52) for more information.
 
