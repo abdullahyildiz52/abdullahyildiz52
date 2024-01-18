@@ -12,8 +12,8 @@
 ## 💼 Career
 - **PGI Houseware Company** 
   - I working as a QA Tester.
-  - Conducted manual and automated tests for the company's website.
-  - Collaborated remotely with the development team.
+  - Conducting manual and automated tests for the company's website.
+  - Collaborating remotely with the development team.
   
 ## 👨‍💻 Skills
 I have experience with various tools and technologies including:
