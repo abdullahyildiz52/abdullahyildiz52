@@ -6,7 +6,7 @@
 
 <br>
 
-  Thank you for visiting my GitHub profile! I'm always open to collaboration and would love to hear from you. Feel free to reach out to me on 
+  Thank you for visiting my GitHub profile! I'm always open to collaboration and would love to hear from you. Feel free to reach out to me on. 
   
 - E-posta: [ce_abdullahyildiz@hotmail.com](mailto:ce_abdullahyildiz@hotmail.com)
 - LinkedIn: [LinkedIn Profili](https://www.linkedin.com/in/abdullahyildiz52/)
