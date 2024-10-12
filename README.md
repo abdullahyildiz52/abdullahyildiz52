@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">I'm a Computer Engineering Student at Kırıkkale University and a Software Test Engineer.</h3>
+<h3 align="center">I'm a  Software Test Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahyildiz52&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahyildiz52" /> </p>
 
